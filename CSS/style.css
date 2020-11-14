@@ -1,0 +1,32 @@
+.encabezado
+{
+    background-color: black;
+}
+
+.btnVolver
+{
+    color: violet;
+}
+
+title {
+    background-color: blue;
+}
+
+table, th, td {
+border: 2px solid black;
+border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+    background-color: blue
+}
+
+table#tabla{
+    width: 50%  ;
+    background-color: rgb(179, 205, 209);
+}
